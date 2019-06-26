@@ -29,7 +29,7 @@ In this exercise, we'll have a look at how data that is available inside Adobe E
 
 ### Exercise 3.1 - Connect Tableau to Adobe Experience Platform
 
-Along with retail products, Luma also offers their customers studio/gym subscriptions with access to yoga & mindfullness coarses for an active lifestyle. To understand how well Luma retain subscriptions by location & loyalty status, we can now connect to Adobe Experience Platform Query Service to visualise this within Tableau and generate a Callcenter Interaction Analysis. To do this, you need to login to Adobe Experience Platform and retrieve the ```Connection Info```.
+Along with retail products, Luma also offers their customers studio/gym subscriptions with access to yoga & mindfulness courses for an active lifestyle. To understand how well Luma retain subscriptions by location & loyalty status, we can now connect to Adobe Experience Platform Query Service to visualise this within Tableau and generate a Call center Interaction Analysis. To do this, you need to login to Adobe Experience Platform and retrieve the ```Connection Info```.
 
 Go to [https://platform.adobe.com](https://platform.adobe.com), and from the left menu, select ```Queries```.
 
@@ -76,7 +76,7 @@ Once this query is executed, Tableau is connected to Adobe Experience Platform a
 
 ## 1.1 Adjust the CIA - Callcenter Interaction Analysis
 
-In the Tableau workbook, you're now seeing a map of Australia and on that map, you're seeing dots. All these dots are based on latitute/longitude coordinates from Customer Profiles that are part of Adobe Experience Platform's datasets. The size of each dot is an indication of a number of calls that have taken place in Luma's call center for a specific call topic.
+In the Tableau workbook, you're now seeing a map of Australia and on that map, you're seeing dots. All these dots are based on latitude/longitude coordinates from Customer Profiles that are part of Adobe Experience Platform's datasets. The size of each dot is an indication of a number of calls that have taken place in Luma's call center for a specific call topic.
 
 As we're interested to see information for calls that were focused at contract discussions, let's change the call topic to ```contract```. You can do this by clicking on the right arrow top right and selecting ```contract``` in the dropdown list. 
 

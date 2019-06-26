@@ -99,7 +99,7 @@ Once the Training Run has completed, you'll see a couple of metrics that indicat
   
   ![DSW](./images/precision.png)
 
-Training a model requires more than one run. All Training Runs will be visible on this page and you'll be able to compare their results, so you can decide which one is the most successfull. (In this Tech Lab, we don't have time to do multiple runs)
+Training a model requires more than one run. All Training Runs will be visible on this page and you'll be able to compare their results, so you can decide which one is the most successful. (In this Tech Lab, we don't have time to do multiple runs)
 
 ![DSW](./images/multipleruns.png)
 

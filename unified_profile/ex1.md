@@ -18,7 +18,7 @@ In this journey, you'll start as an anonymous customer who browses the Luma webs
 
 Let's start.
 
-Go to to [http://luma.adobe.com](http://luma.adobe.com:8080).
+Go to [http://luma.adobe.com](http://luma.adobe.com:8080).
 
 ![Demo](./images/1_1.png)
 

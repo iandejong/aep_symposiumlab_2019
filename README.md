@@ -1,4 +1,4 @@
-## LAB36 - A sneak peek into Adobe Experience Platform, but now hands on
+## TECH LAB - A sneak peek into Adobe Experience Platform
 
 Welcome to the Adobe Experience Platform Overview Lab! In this exercise, the goal is to get a general overview of Adobe Experience Platform. 
 
