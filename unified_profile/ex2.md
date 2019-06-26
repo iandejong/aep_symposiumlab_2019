@@ -56,7 +56,7 @@ By clicking OK, you'll see your full, real-time customer profile.
 
 And by going to the menu option ```Events```, you can see records for every Experience Event that is linked to your Profile.
 
-![Customer Profile](./images/profile_events.png)
+![Customer Profile](./images/profile_events_2.png)
 
 ---
 
